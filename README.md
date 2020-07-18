@@ -19,3 +19,8 @@ Demonstration script of finding the divizable integers of an iteration from 1 to
 
 Module to change the AWS instance types of Tableau Servers for a specific build pipeline.
 * https://github.com/mikaelws/code-examples/blob/master/Python/resize_instances.py
+
+## SQL
+
+Stored procedure for Redwood Report2Web to provision specific access to specific folders based on user groups.
+* https://github.com/mikaelws/code-examples/blob/master/sql/r2w_db.Company.sp_AssignWildcardContentAccess.sql
